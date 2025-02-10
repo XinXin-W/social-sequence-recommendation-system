@@ -1,6 +1,6 @@
 # social-sequence-recommendation-system
 1. (IEEE 2024)Temporal Social Graph Network Hashing for Efficient Recommendation <a href="超链接地址" title="超链接title">超链接显示名</a>     
-2.(KDD 2024) Graph Bottlenecked Social Recommendation <a href="https://arxiv.org/pdf/2406.08214">pdf</a> | <a href="[超链接地址](https://github.com/yimutianyang/KDD24-GBSR.)">code</a>         
+2.(KDD 2024) Graph Bottlenecked Social Recommendation <a href="https://arxiv.org/pdf/2406.08214">pdf</a> | <a href="https://github.com/yimutianyang/KDD24-GBSR.">code</a>         
 3.(CIKM 2024) RecDiff: Diffusion Model for Social Recommendation  <a href="超链接地址" title="超链接title">超链接显示名</a>     
 4.(Electronics 2024)Self-Supervised Hypergraph Learning for Knowledge-Aware Social Recommendation  <a href="超链接地址" title="超链接title">超链接显示名</a>     
 5.(The Journal of Supercomputing 2024) Diffusion social augmentation for social recommendation  <a href="超链接地址" title="超链接title">超链接显示名</a>     
