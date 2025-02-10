@@ -1,9 +1,9 @@
 # social-sequence-recommendation-system
-1. (IEEE 2024)Temporal Social Graph Network Hashing for Efficient Recommendation <a href="超链接地址" title="超链接title">超链接显示名</a>
-2.(KDD 2024) Graph Bottlenecked Social Recommendation <a href="https://arxiv.org/pdf/2406.08214">pdf</a> 
-3.(CIKM 2024) RecDiff: Diffusion Model for Social Recommendation
-4.(Electronics 2024)Self-Supervised Hypergraph Learning for Knowledge-Aware Social Recommendation
-5.(The Journal of Supercomputing 2024) Diffusion social augmentation for social recommendation
+1. (IEEE 2024)Temporal Social Graph Network Hashing for Efficient Recommendation <a href="超链接地址" title="超链接title">超链接显示名</a>  
+2.(KDD 2024) Graph Bottlenecked Social Recommendation <a href="https://arxiv.org/pdf/2406.08214">pdf</a>   
+3.(CIKM 2024) RecDiff: Diffusion Model for Social Recommendation  
+4.(Electronics 2024)Self-Supervised Hypergraph Learning for Knowledge-Aware Social Recommendation  
+5.(The Journal of Supercomputing 2024) Diffusion social augmentation for social recommendation  
 6. (WWW 2025)Dual Graph Denoising Model for Social Recommendation
 7. (Journal of Intelligent Information 2024)A denoising social recommendation method by fusing global-local node information of heterogeneous graphs
 8.(ACM 2024) Heterogeneous Meta-Path Graph Learning for Higher-Order Social Recommendation
